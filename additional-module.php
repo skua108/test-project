@@ -2,7 +2,7 @@
 
 echo "how are you\n";
 
-echo "\n";
+echo "hi there\n";
 
 echo "\n";
 ?>
